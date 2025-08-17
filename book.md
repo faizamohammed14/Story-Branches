@@ -9,3 +9,9 @@ In time, the project outgrew its single line of history.
 A new branch was created, diverging from the main flow.
 On this branch, the story unfolded with new ideas and changes, isolated yet connected to the root.
 It was the beginning of parallel development — where experiments could live safely without disturbing the foundation.
+
+##Chapter 3: The Merge
+The branches, though different, were never truly separate.  
+They came together, merging into one unified history.  
+Conflicts sometimes arose, but each resolution made the story stronger.  
+In unity, the project found its true form.
